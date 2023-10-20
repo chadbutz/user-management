@@ -1,0 +1,4 @@
+com/takehome/usermanagement/controller/UserManagementController.class
+com/takehome/usermanagement/repository/UserRepository.class
+com/takehome/usermanagement/UserManagementApplication.class
+com/takehome/usermanagement/entity/Users.class
